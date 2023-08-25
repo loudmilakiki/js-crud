@@ -10,7 +10,7 @@
     "sass:watch": "sass --watch src:public/dist/css",
     "dev": "run-p sass:watch client"
   },
-  "dependencies": {
+  "dependencies": { 
     "@babel/core": "^7.21.0",
     "babel-eslint": "^10.1.0",
     "babel-loader": "^8.2.5",
